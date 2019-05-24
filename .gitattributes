@@ -1,0 +1,2 @@
+ssd_inception_v2_coco_2017_11_17/frozen_inference_graph.pb filter=lfs diff=lfs merge=lfs -text
+facessd_mobilenet_v2_quantized_320x320_open_image_v4.tar.gz filter=lfs diff=lfs merge=lfs -text
